@@ -2,7 +2,9 @@ Some text to test commits and changes.
 
 First committed change for this repo.
 
-First dev commit.
+First US-1 commit
+
+Second US-1 commit
 
 First US-2 commit.
 
